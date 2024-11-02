@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar el archivo CSV
-df = pd.read_csv("educacion.csv")
+
 
 st.title("Análisis de Datos de Educación en Colombia")
 
